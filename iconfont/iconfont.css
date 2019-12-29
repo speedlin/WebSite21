@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1577522792550'); /* IE9 */
+  src: url('iconfont.eot?t=1577522792550#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO4AAsAAAAAB8AAAANrAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDLIMCATYCJAMMCwgABCAFhG0HNBvGBsgOJaGQwGBgAIVhPHzt9zt3d598UaRBEo10n05iSEQSkUSIeOp0KZnpXsL7q87v9eAD7JW+jB3Fk5p0FpwseDJwAnzbysHl9P8r8XlAuYy5bKyJAcYBBTT2IiuQBL1h7CbKg9hMoG/VcOi0qKIBnBSgVyCutVIvOKVUSk18aIW6ZGKBeAFWm2ZTNwE88+/HP8SFE0iqDGDg2VUhDzlf8I6lVbuqg2rANp4B2jQy9oBCXJaaLtChZw+t74iY+vBaEdJYdnsHZ7mCGv7hkQRRA4gdgi3Jm/gCzIrFrMg5640yqNHgDsArANli34OqJRRcwjqz41cMFRfPOan6C/xSddvcQdKOECSOsti2z9nqp+48eXTO8dO7UepJ8OhR45Mnksvjx00PHza4bDwZBMtODXDdciYU2XYPXBL45Enzk7mNDY5Z5L9xZxCo2/z3ZtxtWOi3+nHSxYd43aPCK0/6KYzGCBp5egxyQa7azadtZ+aeUk9KcvO43DEB6NRp+zAY1q0A8h/DosU9T51CgQB8qO7eod5uIVEF9xNeFUSFSI3CvN1RrcFQi2oQbYQYevj874fWUGspgR6m02vjXU67xK9N5wOD7nPp5eHFsqk4ojRiQ1mEIjeZkouXp3PnHU/7Dv9w/ZtYHPHw4of8uLvzKsqdnfHR83BpljoyYsnMIZ3+a/NDT4fmJ3n9l/6WPj3+xcysmZmCYR0BezvoAegm50G0GaBTC0Wrf+43lvf3/ev2zPjbDhiAzxHJGq7qJreLBq1Ea/Z/KigIdPaSdC5Q52JrlNHjZDfYt5Cvr48OZNvcs/6ypXfhC62lGJLGCmStNbQQ9qAysA+11gH07SqePrBAQYviDOyYLkCY2gPJ2DtkU7fQQngKlWVfoTYNGvrOw3fBgY3QuuQrQi8ReDxyLNZysklEWuISxNcJktXQqyS5nNgkKBatHcdGxWT9xYJJUMYYYhklxREiYlGRjbhI2E4wGGRsVmSdwJEoDSHmtOhosexNUZxsBBcnFIJehICHjTQWpsWRmYi0OuGS+3wdgcTKoJdSU9ahbSJQWGjrx2JFiWmBFotMrcqu5RqLUSRxCEKEiRQyI6xIaCcwMJBh5vJ2OgIOEUXTw2WWJhpWEtuKouaXGJ9vDfSBVXJQiEYM5FurzOgF0QoAAA==') format('woff2'),
+  url('iconfont.woff?t=1577522792550') format('woff'),
+  url('iconfont.ttf?t=1577522792550') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1577522792550#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zuo:before {
+  content: "\e605";
+}
+
+.icon-kefu:before {
+  content: "\e600";
+}
+

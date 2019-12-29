@@ -1,0 +1,23 @@
+{
+  "id": "1587712",
+  "name": "交通PC",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1148924",
+      "name": "右",
+      "font_class": "zuo",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3899563",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
